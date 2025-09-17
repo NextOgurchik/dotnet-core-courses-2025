@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\Task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{387EF744-733B-4F38-905F-5B8C815CEBAA}|Task1\\Task1.csproj|c:\\users\\admin\\desktop\\dotnet-core-courses-2025\\task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{387EF744-733B-4F38-905F-5B8C815CEBAA}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D12C42A6-0AD4-48D5-8C09-0D7FF4C6C681}|Calc.ConsoleApp\\Calc.ConsoleApp.csproj|c:\\users\\admin\\desktop\\dotnet-core-courses-2025\\task1\\calc.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12C42A6-0AD4-48D5-8C09-0D7FF4C6C681}|Calc.ConsoleApp\\Calc.ConsoleApp.csproj|solutionrelative:calc.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFF3AA6-C36A-48E5-81DC-9EC3F132370C}|Calc.Lib\\Calc.Lib.csproj|c:\\users\\admin\\desktop\\dotnet-core-courses-2025\\task1\\calc.lib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFF3AA6-C36A-48E5-81DC-9EC3F132370C}|Calc.Lib\\Calc.Lib.csproj|solutionrelative:calc.lib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\Task1\\Task1\\Program.cs",
-              "RelativeDocumentMoniker": "Task1\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\Task1\\Task1\\Program.cs",
-              "RelativeToolTip": "Task1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\Task1\\Calc.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Calc.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\Task1\\Calc.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Calc.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T12:07:58.645Z",
+              "WhenOpened": "2025-09-17T12:32:08.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\Task1\\Calc.Lib\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calc.Lib\\Calculator.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\Task1\\Calc.Lib\\Calculator.cs",
+              "RelativeToolTip": "Calc.Lib\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:29:09.257Z",
               "EditorCaption": ""
             }
           ]
