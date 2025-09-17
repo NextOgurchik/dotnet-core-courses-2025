@@ -24,14 +24,6 @@
     - Использует [Console.ReadLine](https://learn.microsoft.com/en-us/dotnet/api/system.console.readline) и [Int32.Parse](https://learn.microsoft.com/en-us/dotnet/api/system.int32.parse), чтобы запросить у пользователя 2 числа
     - Складывает их через **Calculator.Add**
     - Через [Console.WriteLine](https://learn.microsoft.com/en-us/dotnet/api/system.console.writeline) выдает результат
- 
- ### Запуск, тесты и отладка
- Все результаты этого пункта предстаьте в виде скриншотов (отдельной папкой в репозиотрии)
- 
- Что нужно сделать (и запечатлеть)
- - Успешный запуск тестов из IDE и через командную строку
- - НЕуспешный запуск теста (одного) и там, и там (просто временно что-то испортьте в коде библиотеки или самого теста)
-- Запуск и выполнение консольной утилиты
 
 ### Внешние библиотеки
 - Подключите в проект консольного приложения библиотеку [Colorful.Console](https://github.com/tomakita/Colorful.Console) через NuGet
