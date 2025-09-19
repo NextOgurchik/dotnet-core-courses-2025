@@ -1,0 +1,135 @@
+..   24 Key:g Data:106
+|-L-..   12 Key:a2 Data:9
+|  |-L-@@    4 Key:a Data:401
+|  |  |-L-..    2 Key:a Data:201
+|  |  |  |-R-@@    1 Key:a Data:301
+|  |  |-R-..    1 Key:a Data:501
+|  |-R-@@    7 Key:b Data:102
+|     |-L-..    3 Key:a5 Data:107
+|     |  |-L-@@    1 Key:a2 Data:209
+|     |  |-R-@@    1 Key:a7 Data:10
+|     |-R-..    3 Key:c Data:8
+|        |-L-@@    1 Key:b Data:202
+|        |-R-@@    1 Key:c Data:208
+|-R-..   11 Key:t Data:103
+   |-L-@@    6 Key:i Data:11
+   |  |-L-..    3 Key:h Data:112
+   |  |  |-L-@@    1 Key:g Data:206
+   |  |  |-R-@@    1 Key:h Data:212
+   |  |-R-..    2 Key:o Data:104
+   |     |-L-@@    1 Key:i Data:211
+   |-R-@@    4 Key:z Data:105
+      |-L-..    1 Key:t Data:203
+      |-R-..    2 Key:z Data:205
+         |-R-@@    1 Key:z Data:305
+
+..   23 Key:g Data:106
+|-L-..   11 Key:a2 Data:9
+|  |-L-@@    3 Key:a Data:401
+|  |  |-L-..    1 Key:a Data:301
+|  |  |-R-..    1 Key:a Data:501
+|  |-R-@@    7 Key:b Data:102
+|     |-L-..    3 Key:a5 Data:107
+|     |  |-L-@@    1 Key:a2 Data:209
+|     |  |-R-@@    1 Key:a7 Data:10
+|     |-R-..    3 Key:c Data:8
+|        |-L-@@    1 Key:b Data:202
+|        |-R-@@    1 Key:c Data:208
+|-R-..   11 Key:t Data:103
+   |-L-@@    6 Key:i Data:11
+   |  |-L-..    3 Key:h Data:112
+   |  |  |-L-@@    1 Key:g Data:206
+   |  |  |-R-@@    1 Key:h Data:212
+   |  |-R-..    2 Key:o Data:104
+   |     |-L-@@    1 Key:i Data:211
+   |-R-@@    4 Key:z Data:105
+      |-L-..    1 Key:t Data:203
+      |-R-..    2 Key:z Data:205
+         |-R-@@    1 Key:z Data:305
+
+..   22 Key:g Data:106
+|-L-..   10 Key:a2 Data:9
+|  |-L-..    2 Key:a Data:401
+|  |  |-R-@@    1 Key:a Data:501
+|  |-R-@@    7 Key:b Data:102
+|     |-L-..    3 Key:a5 Data:107
+|     |  |-L-@@    1 Key:a2 Data:209
+|     |  |-R-@@    1 Key:a7 Data:10
+|     |-R-..    3 Key:c Data:8
+|        |-L-@@    1 Key:b Data:202
+|        |-R-@@    1 Key:c Data:208
+|-R-..   11 Key:t Data:103
+   |-L-@@    6 Key:i Data:11
+   |  |-L-..    3 Key:h Data:112
+   |  |  |-L-@@    1 Key:g Data:206
+   |  |  |-R-@@    1 Key:h Data:212
+   |  |-R-..    2 Key:o Data:104
+   |     |-L-@@    1 Key:i Data:211
+   |-R-@@    4 Key:z Data:105
+      |-L-..    1 Key:t Data:203
+      |-R-..    2 Key:z Data:205
+         |-R-@@    1 Key:z Data:305
+
+..   21 Key:g Data:106
+|-L-..   10 Key:a2 Data:9
+|  |-L-..    2 Key:a Data:401
+|  |  |-R-@@    1 Key:a Data:501
+|  |-R-@@    7 Key:b Data:102
+|     |-L-..    3 Key:a5 Data:107
+|     |  |-L-@@    1 Key:a2 Data:209
+|     |  |-R-@@    1 Key:a7 Data:10
+|     |-R-..    3 Key:c Data:8
+|        |-L-@@    1 Key:b Data:202
+|        |-R-@@    1 Key:c Data:208
+|-R-..   10 Key:t Data:103
+   |-L-@@    6 Key:i Data:11
+   |  |-L-..    3 Key:h Data:112
+   |  |  |-L-@@    1 Key:g Data:206
+   |  |  |-R-@@    1 Key:h Data:212
+   |  |-R-..    2 Key:o Data:104
+   |     |-L-@@    1 Key:i Data:211
+   |-R-@@    3 Key:z Data:105
+      |-L-..    1 Key:t Data:203
+      |-R-..    1 Key:z Data:205
+
+..   20 Key:g Data:106
+|-L-..   10 Key:a2 Data:9
+|  |-L-..    2 Key:a Data:401
+|  |  |-R-@@    1 Key:a Data:501
+|  |-R-@@    7 Key:b Data:102
+|     |-L-..    3 Key:a5 Data:107
+|     |  |-L-@@    1 Key:a2 Data:209
+|     |  |-R-@@    1 Key:a7 Data:10
+|     |-R-..    3 Key:c Data:8
+|        |-L-@@    1 Key:b Data:202
+|        |-R-@@    1 Key:c Data:208
+|-R-..    9 Key:t Data:103
+   |-L-@@    6 Key:i Data:11
+   |  |-L-..    3 Key:h Data:112
+   |  |  |-L-@@    1 Key:g Data:206
+   |  |  |-R-@@    1 Key:h Data:212
+   |  |-R-..    2 Key:o Data:104
+   |     |-L-@@    1 Key:i Data:211
+   |-R-..    2 Key:z Data:105
+      |-L-@@    1 Key:t Data:203
+
+..   19 Key:g Data:106
+|-L-..   10 Key:a2 Data:9
+|  |-L-..    2 Key:a Data:401
+|  |  |-R-@@    1 Key:a Data:501
+|  |-R-@@    7 Key:b Data:102
+|     |-L-..    3 Key:a5 Data:107
+|     |  |-L-@@    1 Key:a2 Data:209
+|     |  |-R-@@    1 Key:a7 Data:10
+|     |-R-..    3 Key:c Data:8
+|        |-L-@@    1 Key:b Data:202
+|        |-R-@@    1 Key:c Data:208
+|-R-..    8 Key:i Data:11
+   |-L-..    3 Key:h Data:112
+   |  |-L-@@    1 Key:g Data:206
+   |  |-R-@@    1 Key:h Data:212
+   |-R-@@    4 Key:t Data:103
+      |-L-..    2 Key:o Data:104
+      |  |-L-@@    1 Key:i Data:211
+      |-R-..    1 Key:t Data:203
+

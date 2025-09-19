@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\Task2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\02. Basic C# and Unit-testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2099B50-B7DE-4BDF-8E52-BE59918E0EA0}|PowerCollections\\PowerCollections.Tests\\PowerCollections.Tests.csproj|c:\\users\\admin\\desktop\\dotnet-core-courses-2025\\02. basic c# and unit-testing\\powercollections\\powercollections.tests\\listbasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2099B50-B7DE-4BDF-8E52-BE59918E0EA0}|PowerCollections\\PowerCollections.Tests\\PowerCollections.Tests.csproj|solutionrelative:powercollections\\powercollections.tests\\listbasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7622E66-F34A-4A69-B9F2-25DB5EC6EFE3}|PowerCollections\\PowerCollections\\PowerCollections.csproj|c:\\users\\admin\\desktop\\dotnet-core-courses-2025\\02. basic c# and unit-testing\\powercollections\\powercollections\\set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7622E66-F34A-4A69-B9F2-25DB5EC6EFE3}|PowerCollections\\PowerCollections\\PowerCollections.csproj|solutionrelative:powercollections\\powercollections\\set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListBaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\02. Basic C# and Unit-testing\\PowerCollections\\PowerCollections.Tests\\ListBaseTests.cs",
+              "RelativeDocumentMoniker": "PowerCollections\\PowerCollections.Tests\\ListBaseTests.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\02. Basic C# and Unit-testing\\PowerCollections\\PowerCollections.Tests\\ListBaseTests.cs",
+              "RelativeToolTip": "PowerCollections\\PowerCollections.Tests\\ListBaseTests.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:12:06.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Set.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\02. Basic C# and Unit-testing\\PowerCollections\\PowerCollections\\Set.cs",
+              "RelativeDocumentMoniker": "PowerCollections\\PowerCollections\\Set.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\02. Basic C# and Unit-testing\\PowerCollections\\PowerCollections\\Set.cs",
+              "RelativeToolTip": "PowerCollections\\PowerCollections\\Set.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:11:55.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

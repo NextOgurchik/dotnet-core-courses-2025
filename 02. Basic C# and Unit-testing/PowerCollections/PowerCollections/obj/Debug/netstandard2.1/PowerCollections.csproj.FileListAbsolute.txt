@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\dotnet-core-courses-2025\02. Basic C# and Unit-testing\PowerCollections\PowerCollections\bin\Debug\netstandard2.1\PowerCollections.deps.json
+C:\Users\admin\Desktop\dotnet-core-courses-2025\02. Basic C# and Unit-testing\PowerCollections\PowerCollections\bin\Debug\netstandard2.1\PowerCollections.dll
+C:\Users\admin\Desktop\dotnet-core-courses-2025\02. Basic C# and Unit-testing\PowerCollections\PowerCollections\bin\Debug\netstandard2.1\PowerCollections.pdb
+C:\Users\admin\Desktop\dotnet-core-courses-2025\02. Basic C# and Unit-testing\PowerCollections\PowerCollections\obj\Debug\netstandard2.1\PowerCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dotnet-core-courses-2025\02. Basic C# and Unit-testing\PowerCollections\PowerCollections\obj\Debug\netstandard2.1\PowerCollections.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dotnet-core-courses-2025\02. Basic C# and Unit-testing\PowerCollections\PowerCollections\obj\Debug\netstandard2.1\PowerCollections.sourcelink.json
+C:\Users\admin\Desktop\dotnet-core-courses-2025\02. Basic C# and Unit-testing\PowerCollections\PowerCollections\obj\Debug\netstandard2.1\PowerCollections.dll
+C:\Users\admin\Desktop\dotnet-core-courses-2025\02. Basic C# and Unit-testing\PowerCollections\PowerCollections\obj\Debug\netstandard2.1\PowerCollections.pdb

@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = PowerCollections
+build_property.ProjectDir = C:\Users\admin\Desktop\dotnet-core-courses-2025\02. Basic C# and Unit-testing\PowerCollections\PowerCollections\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
