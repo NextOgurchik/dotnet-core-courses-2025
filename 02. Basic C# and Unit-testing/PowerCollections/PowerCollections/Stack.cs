@@ -1,50 +1,73 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace PowerCollections
 {
-    internal class Stack
+    internal interface IFindable<T>
     {
-        private int[] array;
-        private int count;
-        private int capacity;
+        public T[] Find(Func<T, bool> predicate);
+    }
+    internal class Stack<T>: IFindable<T>
+    {
+        private readonly T[] array;
+        public int Count { get; private set; }
+        public int Capacity { get; private set; }
         public Stack(int capacity)
         {
-            this.capacity = capacity;
-            array = new int[capacity];
+            Capacity = capacity;
+            array = new T[capacity];
         }
-        public void Push(int item)
+        public void Push(T item)
         {
-            array[count++] = item;
+            if (Count > Capacity-1)
+            {
+                throw new InvalidOperationException($"Stack is full. Cannot push '{item}'. Current capacity is {Capacity}.");
+            }
+            array[Count++] = item;
         }
-        public int Pop() 
+        public T Pop()
         {
-            count--;
-            return array[count];
+            if (Count == 0)
+            {
+                throw new InvalidOperationException("Cannot perform Pop operation on an empty stack.");
+            }
+            Count--;
+            return array[Count];
         }
-        public int Top()
+        public T Top()
         {
-            return array[count-1];
+            if(Count == 0)
+            {
+                throw new InvalidOperationException("Cannot perform Top operation on an empty stack.");
+            }
+            return array[Count - 1];
         }
-        public int[] ToArray()
+        public T[] ToArray()
         {
-            int[] array = new int[count];
+            T[] array = new T[Count];
             int j = 0;
-            for (int i = count-1; i >= 0; i--)
+            for (int i = Count - 1; i >= 0; i--)
             {
                 array[i] = this.array[j];
                 j++;
             }
             return array;
         }
-        public int GetCount()
+        public T[] Find(Func<T,bool> predicate)
         {
-            return count;
-        }
-        public int GetCapacity()
-        {
-            return capacity;
+            var foundItems = new List<T>();
+            if (predicate == null)
+            {
+                throw new ArgumentNullException(nameof(predicate), "Predicate cannot be null.");
+            }
+            for (int i = Count - 1; i >= 0; i--)
+            {
+                if (predicate(array[i]))
+                {
+                    foundItems.Add(array[i]);
+                }
+            }
+            return foundItems.ToArray();
         }
     }
 }

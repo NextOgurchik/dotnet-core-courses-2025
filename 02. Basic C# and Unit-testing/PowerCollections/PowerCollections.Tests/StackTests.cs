@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.NetworkInformation;
-using System.Text;
-using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PowerCollections;
 
@@ -15,23 +10,23 @@ namespace Wintellect.PowerCollections.Tests
         [TestMethod]
         public void CreateAndGetCapacity()
         {
-            Stack stack1 = new Stack(4);
-            Assert.AreEqual(4, stack1.GetCapacity());
+            Stack<int> stack1 = new(4);
+            Assert.AreEqual(4, stack1.Capacity);
         }
         [TestMethod]
         public void CountOfElement()
         {
-            Stack stack1 = new Stack(7);
-            for (int i = 0; i < 7; i++)
+            Stack<int> stack1 = new(7);
+            for (int i = 0; i < 5; i++)
             {
                 stack1.Push(i);
             }
-            Assert.AreEqual(7, stack1.GetCount());
+            Assert.AreEqual(5, stack1.Count);
         }
         [TestMethod]
         public void PushPopAndTop()
         {
-            Stack stack1 = new Stack(8);
+            Stack<int> stack1 = new(8);
             stack1.Push(1);
             stack1.Push(2);
             stack1.Push(3);
@@ -39,25 +34,50 @@ namespace Wintellect.PowerCollections.Tests
             Assert.AreEqual(2, stack1.Top());
         }
         [TestMethod]
-        public void ThrowOutOfRangeException()
+        public void LessThenZero()
         {
-            Stack stack1 = new Stack(4);
+            Stack<int> stack1 = new(4);
+            stack1.Push(0);
+            stack1.Pop();
+            Assert.ThrowsException<InvalidOperationException>(() => stack1.Pop());
+        }
+        [TestMethod]
+        public void MoreThenCapacity()
+        {
+            Stack<int> stack1 = new(4);
             for (int i = 0; i < 4; i++)
             {
-                stack1.Push(1);
+                stack1.Push(0);
             }
-            Assert.ThrowsException<IndexOutOfRangeException>(() => stack1.Push(1));
+            Assert.ThrowsException<InvalidOperationException>(() => stack1.Push(0));
+        }
+        [TestMethod]
+        public void EmptyTop()
+        {
+            Stack<int> stack1 = new(4);
+            Assert.ThrowsException<InvalidOperationException>(() => stack1.Top());
         }
         [TestMethod]
         public void ConvertToArray()
         {
-            Stack stack1 = new Stack(4);
+            Stack<int> stack1 = new(4);
             for (int i = 0; i < 4; i++)
             {
-                stack1.Push(i);
+                stack1.Push(i + 0);
             }
             int[] array = { 3, 2, 1, 0 };
             CollectionAssert.AreEqual(array, stack1.ToArray());
+        }
+        [TestMethod]
+        public void Find()
+        {
+            Stack<int> stack1 = new(6);
+            for (int i = 0; i < 6; i++)
+            {
+                stack1.Push(i);
+            }
+            var arrayMoreThanTwo = stack1.Find((int x) => x > 2);
+            CollectionAssert.AreEqual(new int[3] { 5, 4, 3 }, arrayMoreThanTwo);
         }
     }
 }

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\02. Basic C# and Unit-testing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7622E66-F34A-4A69-B9F2-25DB5EC6EFE3}|PowerCollections\\PowerCollections\\PowerCollections.csproj|c:\\users\\admin\\desktop\\dotnet-core-courses-2025\\02. basic c# and unit-testing\\powercollections\\powercollections\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7622E66-F34A-4A69-B9F2-25DB5EC6EFE3}|PowerCollections\\PowerCollections\\PowerCollections.csproj|solutionrelative:powercollections\\powercollections\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D2099B50-B7DE-4BDF-8E52-BE59918E0EA0}|PowerCollections\\PowerCollections.Tests\\PowerCollections.Tests.csproj|c:\\users\\admin\\desktop\\dotnet-core-courses-2025\\02. basic c# and unit-testing\\powercollections\\powercollections.tests\\stacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2099B50-B7DE-4BDF-8E52-BE59918E0EA0}|PowerCollections\\PowerCollections.Tests\\PowerCollections.Tests.csproj|solutionrelative:powercollections\\powercollections.tests\\stacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7622E66-F34A-4A69-B9F2-25DB5EC6EFE3}|PowerCollections\\PowerCollections\\PowerCollections.csproj|c:\\users\\admin\\desktop\\dotnet-core-courses-2025\\02. basic c# and unit-testing\\powercollections\\powercollections\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7622E66-F34A-4A69-B9F2-25DB5EC6EFE3}|PowerCollections\\PowerCollections\\PowerCollections.csproj|solutionrelative:powercollections\\powercollections\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StackTests.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\02. Basic C# and Unit-testing\\PowerCollections\\PowerCollections.Tests\\StackTests.cs",
               "RelativeDocumentMoniker": "PowerCollections\\PowerCollections.Tests\\StackTests.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\02. Basic C# and Unit-testing\\PowerCollections\\PowerCollections.Tests\\StackTests.cs",
               "RelativeToolTip": "PowerCollections\\PowerCollections.Tests\\StackTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T11:39:21.173Z"
+              "WhenOpened": "2025-09-19T11:39:21.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Stack.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\02. Basic C# and Unit-testing\\PowerCollections\\PowerCollections\\Stack.cs",
               "RelativeDocumentMoniker": "PowerCollections\\PowerCollections\\Stack.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\02. Basic C# and Unit-testing\\PowerCollections\\PowerCollections\\Stack.cs",
               "RelativeToolTip": "PowerCollections\\PowerCollections\\Stack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T11:23:40.096Z",
               "EditorCaption": ""

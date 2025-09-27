@@ -1,0 +1,305 @@
+count=1  usedSlots=1  totalSlots=16
+loadFactor=0.7  thresholdGrow=11  thresholdShrink=1
+hashMask=F  secondaryShift=27
+
+Slot    0:          0 <empty>
+Slot    1:          0 <empty>
+Slot    2:          0 <empty>
+Slot    3:          0 <empty>
+Slot    4:          0 <empty>
+Slot    5:          0 <empty>
+Slot    6:          0 <empty>
+Slot    7:          0 <empty>
+Slot    8:          0 <empty>
+Slot    9:          0 <empty>
+Slot    A:          0 <empty>
+Slot    B:          0 <empty>
+Slot    C:          0 <empty>
+Slot    D:          0 <empty>
+Slot    E:          0 <empty>
+Slot    F:   406F10EF Key:m Data:0
+
+count=2  usedSlots=2  totalSlots=16
+loadFactor=0.7  thresholdGrow=11  thresholdShrink=1
+hashMask=F  secondaryShift=27
+
+Slot    0:          0 <empty>
+Slot    1:   3D7146C1 Key:b Data:0
+Slot    2:          0 <empty>
+Slot    3:          0 <empty>
+Slot    4:          0 <empty>
+Slot    5:          0 <empty>
+Slot    6:          0 <empty>
+Slot    7:          0 <empty>
+Slot    8:          0 <empty>
+Slot    9:          0 <empty>
+Slot    A:          0 <empty>
+Slot    B:          0 <empty>
+Slot    C:          0 <empty>
+Slot    D:          0 <empty>
+Slot    E:          0 <empty>
+Slot    F:   406F10EF Key:m Data:0
+
+count=3  usedSlots=3  totalSlots=16
+loadFactor=0.7  thresholdGrow=11  thresholdShrink=1
+hashMask=F  secondaryShift=27
+
+Slot    0:          0 <empty>
+Slot    1:   3D7146C1 Key:b Data:0
+Slot    2:   17CACB92 Key:t Data:0
+Slot    3:          0 <empty>
+Slot    4:          0 <empty>
+Slot    5:          0 <empty>
+Slot    6:          0 <empty>
+Slot    7:          0 <empty>
+Slot    8:          0 <empty>
+Slot    9:          0 <empty>
+Slot    A:          0 <empty>
+Slot    B:          0 <empty>
+Slot    C:          0 <empty>
+Slot    D:          0 <empty>
+Slot    E:          0 <empty>
+Slot    F:   406F10EF Key:m Data:0
+
+count=4  usedSlots=4  totalSlots=16
+loadFactor=0.7  thresholdGrow=11  thresholdShrink=1
+hashMask=F  secondaryShift=27
+
+Slot    0:          0 <empty>
+Slot    1:   3D7146C1 Key:b Data:0
+Slot    2:   17CACB92 Key:t Data:0
+Slot    3:   72F74BA3 Key:o Data:0
+Slot    4:          0 <empty>
+Slot    5:          0 <empty>
+Slot    6:          0 <empty>
+Slot    7:          0 <empty>
+Slot    8:          0 <empty>
+Slot    9:          0 <empty>
+Slot    A:          0 <empty>
+Slot    B:          0 <empty>
+Slot    C:          0 <empty>
+Slot    D:          0 <empty>
+Slot    E:          0 <empty>
+Slot    F:   406F10EF Key:m Data:0
+
+count=5  usedSlots=5  totalSlots=16
+loadFactor=0.7  thresholdGrow=11  thresholdShrink=1
+hashMask=F  secondaryShift=27
+
+Slot    0:          0 <empty>
+Slot    1:   3D7146C1 Key:b Data:0
+Slot    2:   17CACB92 Key:t Data:0
+Slot    3:   72F74BA3 Key:o Data:0
+Slot    4:          0 <empty>
+Slot    5:          0 <empty>
+Slot    6:   26043C46 Key:z Data:0
+Slot    7:          0 <empty>
+Slot    8:          0 <empty>
+Slot    9:          0 <empty>
+Slot    A:          0 <empty>
+Slot    B:          0 <empty>
+Slot    C:          0 <empty>
+Slot    D:          0 <empty>
+Slot    E:          0 <empty>
+Slot    F:   406F10EF Key:m Data:0
+
+count=6  usedSlots=6  totalSlots=16
+loadFactor=0.7  thresholdGrow=11  thresholdShrink=1
+hashMask=F  secondaryShift=27
+
+Slot    0:          0 <empty>
+Slot    1:   3D7146C1 Key:b Data:0
+Slot    2:   17CACB92 Key:t Data:0
+Slot    3:   72F74BA3 Key:o Data:0
+Slot    4:          0 <empty>
+Slot    5:   4EABC035 Key:k Data:0
+Slot    6:   26043C46 Key:z Data:0
+Slot    7:          0 <empty>
+Slot    8:          0 <empty>
+Slot    9:          0 <empty>
+Slot    A:          0 <empty>
+Slot    B:          0 <empty>
+Slot    C:          0 <empty>
+Slot    D:          0 <empty>
+Slot    E:          0 <empty>
+Slot    F:   406F10EF Key:m Data:0
+
+count=7  usedSlots=7  totalSlots=16
+loadFactor=0.7  thresholdGrow=11  thresholdShrink=1
+hashMask=F  secondaryShift=27
+
+Slot    0:          0 <empty>
+Slot    1:   3D7146C1 Key:b Data:0
+Slot    2:   17CACB92 Key:t Data:0
+Slot    3:   72F74BA3 Key:o Data:0
+Slot    4:          0 <empty>
+Slot    5:   4EABC035 Key:k Data:0
+Slot    6:   26043C46 Key:z Data:0
+Slot    7:          0 <empty>
+Slot    8:          0 <empty>
+Slot    9:          0 <empty>
+Slot    A:          0 <empty>
+Slot    B:          0 <empty>
+Slot    C:          0 <empty>
+Slot    D:   5DC5625D Key:g Data:0
+Slot    E:          0 <empty>
+Slot    F:   406F10EF Key:m Data:0
+
+count=8  usedSlots=8  totalSlots=16
+loadFactor=0.7  thresholdGrow=11  thresholdShrink=1
+hashMask=F  secondaryShift=27
+
+Slot    0:          0 <empty>
+Slot    1:   3D7146C1 Key:b Data:0
+Slot    2:   17CACB92 Key:t Data:0
+Slot    3:   72F74BA3 Key:o Data:0
+Slot    4:          0 <empty>
+Slot    5:   4EABC035 Key:k Data:0
+Slot    6:   26043C46 Key:z Data:0
+Slot    7:          0 <empty>
+Slot    8:          0 <empty>
+Slot    9:          0 <empty>
+Slot    A:   5432184F Key:a5 Data:0
+Slot    B:          0 <empty>
+Slot    C:          0 <empty>
+Slot    D:   5DC5625D Key:g Data:0
+Slot    E:          0 <empty>
+Slot    F: C 406F10EF Key:m Data:0
+
+count=9  usedSlots=9  totalSlots=16
+loadFactor=0.7  thresholdGrow=11  thresholdShrink=1
+hashMask=F  secondaryShift=27
+
+Slot    0:    9E1476F Key:c Data:0
+Slot    1:   3D7146C1 Key:b Data:0
+Slot    2:   17CACB92 Key:t Data:0
+Slot    3:   72F74BA3 Key:o Data:0
+Slot    4:          0 <empty>
+Slot    5:   4EABC035 Key:k Data:0
+Slot    6:   26043C46 Key:z Data:0
+Slot    7:          0 <empty>
+Slot    8:          0 <empty>
+Slot    9:          0 <empty>
+Slot    A:   5432184F Key:a5 Data:0
+Slot    B:          0 <empty>
+Slot    C:          0 <empty>
+Slot    D:   5DC5625D Key:g Data:0
+Slot    E:          0 <empty>
+Slot    F: C 406F10EF Key:m Data:0
+
+count=10  usedSlots=10  totalSlots=16
+loadFactor=0.7  thresholdGrow=11  thresholdShrink=1
+hashMask=F  secondaryShift=27
+
+Slot    0: C  9E1476F Key:c Data:0
+Slot    1:   3D7146C1 Key:b Data:0
+Slot    2:   17CACB92 Key:t Data:0
+Slot    3:   72F74BA3 Key:o Data:0
+Slot    4:          0 <empty>
+Slot    5: C 4EABC035 Key:k Data:0
+Slot    6:   26043C46 Key:z Data:0
+Slot    7:          0 <empty>
+Slot    8:          0 <empty>
+Slot    9:          0 <empty>
+Slot    A:   5432184F Key:a5 Data:0
+Slot    B:   5E697EB5 Key:a2 Data:0
+Slot    C:          0 <empty>
+Slot    D:   5DC5625D Key:g Data:0
+Slot    E:          0 <empty>
+Slot    F: C 406F10EF Key:m Data:0
+
+count=11  usedSlots=11  totalSlots=16
+loadFactor=0.7  thresholdGrow=11  thresholdShrink=1
+hashMask=F  secondaryShift=27
+
+Slot    0: C  9E1476F Key:c Data:0
+Slot    1: C 3D7146C1 Key:b Data:0
+Slot    2: C 17CACB92 Key:t Data:0
+Slot    3: C 72F74BA3 Key:o Data:0
+Slot    4:     CEACF0 Key:a7 Data:0
+Slot    5: C 4EABC035 Key:k Data:0
+Slot    6:   26043C46 Key:z Data:0
+Slot    7:          0 <empty>
+Slot    8:          0 <empty>
+Slot    9:          0 <empty>
+Slot    A:   5432184F Key:a5 Data:0
+Slot    B:   5E697EB5 Key:a2 Data:0
+Slot    C:          0 <empty>
+Slot    D:   5DC5625D Key:g Data:0
+Slot    E:          0 <empty>
+Slot    F: C 406F10EF Key:m Data:0
+
+count=12  usedSlots=12  totalSlots=32
+loadFactor=0.7  thresholdGrow=22  thresholdShrink=1
+hashMask=1F  secondaryShift=26
+
+Slot    0:   406F10EF Key:m Data:0
+Slot    1:   3D7146C1 Key:b Data:0
+Slot    2:          0 <empty>
+Slot    3:   72F74BA3 Key:o Data:0
+Slot    4:   5432184F Key:a5 Data:0
+Slot    5:          0 <empty>
+Slot    6:   26043C46 Key:z Data:0
+Slot    7:          0 <empty>
+Slot    8:          0 <empty>
+Slot    9:          0 <empty>
+Slot    A:          0 <empty>
+Slot    B:          0 <empty>
+Slot    C:   5E697EB5 Key:a2 Data:0
+Slot    D:          0 <empty>
+Slot    E:          0 <empty>
+Slot    F: C  9E1476F Key:c Data:0
+Slot   10:     CEACF0 Key:a7 Data:0
+Slot   11:          0 <empty>
+Slot   12:   17CACB92 Key:t Data:0
+Slot   13:          0 <empty>
+Slot   14:          0 <empty>
+Slot   15: C 4EABC035 Key:k Data:0
+Slot   16:          0 <empty>
+Slot   17:          0 <empty>
+Slot   18:          0 <empty>
+Slot   19:          0 <empty>
+Slot   1A:   519FE59A Key:i Data:0
+Slot   1B:          0 <empty>
+Slot   1C:          0 <empty>
+Slot   1D:   5DC5625D Key:g Data:0
+Slot   1E:          0 <empty>
+Slot   1F:          0 <empty>
+
+count=13  usedSlots=13  totalSlots=32
+loadFactor=0.7  thresholdGrow=22  thresholdShrink=1
+hashMask=1F  secondaryShift=26
+
+Slot    0:   406F10EF Key:m Data:0
+Slot    1:   3D7146C1 Key:b Data:0
+Slot    2:          0 <empty>
+Slot    3:   72F74BA3 Key:o Data:0
+Slot    4:   5432184F Key:a5 Data:0
+Slot    5:          0 <empty>
+Slot    6:   26043C46 Key:z Data:0
+Slot    7:          0 <empty>
+Slot    8:          0 <empty>
+Slot    9:          0 <empty>
+Slot    A:   3541ECBD Key:h Data:0
+Slot    B:          0 <empty>
+Slot    C:   5E697EB5 Key:a2 Data:0
+Slot    D:          0 <empty>
+Slot    E:          0 <empty>
+Slot    F: C  9E1476F Key:c Data:0
+Slot   10:     CEACF0 Key:a7 Data:0
+Slot   11:          0 <empty>
+Slot   12:   17CACB92 Key:t Data:0
+Slot   13:          0 <empty>
+Slot   14:          0 <empty>
+Slot   15: C 4EABC035 Key:k Data:0
+Slot   16:          0 <empty>
+Slot   17:          0 <empty>
+Slot   18:          0 <empty>
+Slot   19:          0 <empty>
+Slot   1A:   519FE59A Key:i Data:0
+Slot   1B:          0 <empty>
+Slot   1C:          0 <empty>
+Slot   1D: C 5DC5625D Key:g Data:0
+Slot   1E:          0 <empty>
+Slot   1F:          0 <empty>
+
