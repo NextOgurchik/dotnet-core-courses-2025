@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\Task4\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\04. Basic BCL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E56C565E-A493-418D-99F9-D18397F51AC2}|Task4\\Task4.csproj|c:\\users\\admin\\desktop\\dotnet-core-courses-2025\\task4\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56C565E-A493-418D-99F9-D18397F51AC2}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89B0F79F-C49D-4B08-8529-B22186DCBE39}|Library network\\LibraryNetwork.csproj|c:\\users\\admin\\desktop\\dotnet-core-courses-2025\\04. basic bcl\\library network\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B0F79F-C49D-4B08-8529-B22186DCBE39}|Library network\\LibraryNetwork.csproj|solutionrelative:library network\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B0F79F-C49D-4B08-8529-B22186DCBE39}|Library network\\LibraryNetwork.csproj|c:\\users\\admin\\desktop\\dotnet-core-courses-2025\\04. basic bcl\\library network\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B0F79F-C49D-4B08-8529-B22186DCBE39}|Library network\\LibraryNetwork.csproj|solutionrelative:library network\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\Task4\\Task4\\Program.cs",
-              "RelativeDocumentMoniker": "Task4\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\Task4\\Task4\\Program.cs",
-              "RelativeToolTip": "Task4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\04. Basic BCL\\Library network\\Book.cs",
+              "RelativeDocumentMoniker": "Library network\\Book.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\04. Basic BCL\\Library network\\Book.cs",
+              "RelativeToolTip": "Library network\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T15:10:00.823Z",
+              "WhenOpened": "2025-09-28T13:45:38.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\04. Basic BCL\\Library network\\Program.cs",
+              "RelativeDocumentMoniker": "Library network\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\04. Basic BCL\\Library network\\Program.cs",
+              "RelativeToolTip": "Library network\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:44:07.56Z",
               "EditorCaption": ""
             }
           ]

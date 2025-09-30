@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\Task4\\Task4\\Task4.csproj",
-      "projectName": "Task4",
-      "projectPath": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\Task4\\Task4\\Task4.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\04. Basic BCL\\Library network\\LibraryNetwork.csproj",
+      "projectName": "LibraryNetwork",
+      "projectPath": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\04. Basic BCL\\Library network\\LibraryNetwork.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\Task4\\Task4\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\dotnet-core-courses-2025\\04. Basic BCL\\Library network\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

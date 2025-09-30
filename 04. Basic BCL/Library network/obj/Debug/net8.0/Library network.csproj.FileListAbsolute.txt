@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\obj\Debug\net8.0\Library network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\obj\Debug\net8.0\Library network.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\obj\Debug\net8.0\Library network.AssemblyInfo.cs
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\obj\Debug\net8.0\Library network.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\obj\Debug\net8.0\Library network.sourcelink.json
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\bin\Debug\net8.0\Library network.exe
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\bin\Debug\net8.0\Library network.deps.json
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\bin\Debug\net8.0\Library network.runtimeconfig.json
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\bin\Debug\net8.0\Library network.dll
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\bin\Debug\net8.0\Library network.pdb
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\obj\Debug\net8.0\Library network.dll
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\obj\Debug\net8.0\refint\Library network.dll
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\obj\Debug\net8.0\Library network.pdb
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\obj\Debug\net8.0\Library network.genruntimeconfig.cache
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\Library network\obj\Debug\net8.0\ref\Library network.dll
