@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\obj\Debug\net8.0\LibraryNetwork.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\obj\Debug\net8.0\LibraryNetwork.Implementation.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\obj\Debug\net8.0\LibraryNetwork.Implementation.AssemblyInfo.cs
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\obj\Debug\net8.0\LibraryNetwork.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\obj\Debug\net8.0\LibraryNetwork.Implementation.sourcelink.json
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\bin\Debug\net8.0\LibraryNetwork.Implementation.deps.json
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\bin\Debug\net8.0\LibraryNetwork.Implementation.dll
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\bin\Debug\net8.0\LibraryNetwork.Implementation.pdb
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\bin\Debug\net8.0\LibraryNetwork.Models.dll
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\bin\Debug\net8.0\LibraryNetwork.Models.pdb
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\obj\Debug\net8.0\LibraryNetwork.Implementation.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\obj\Debug\net8.0\LibraryN.EEC989E1.Up2Date
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\obj\Debug\net8.0\LibraryNetwork.Implementation.dll
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\obj\Debug\net8.0\refint\LibraryNetwork.Implementation.dll
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\obj\Debug\net8.0\LibraryNetwork.Implementation.pdb
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Implementation\obj\Debug\net8.0\ref\LibraryNetwork.Implementation.dll

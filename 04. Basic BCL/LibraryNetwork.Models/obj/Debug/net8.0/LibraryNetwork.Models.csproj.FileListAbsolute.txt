@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Models\obj\Debug\net8.0\LibraryNetwork.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Models\obj\Debug\net8.0\LibraryNetwork.Models.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Models\obj\Debug\net8.0\LibraryNetwork.Models.AssemblyInfo.cs
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Models\obj\Debug\net8.0\LibraryNetwork.Models.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Models\obj\Debug\net8.0\LibraryNetwork.Models.sourcelink.json
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Models\bin\Debug\net8.0\LibraryNetwork.Models.deps.json
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Models\bin\Debug\net8.0\LibraryNetwork.Models.dll
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Models\bin\Debug\net8.0\LibraryNetwork.Models.pdb
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Models\obj\Debug\net8.0\LibraryNetwork.Models.dll
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Models\obj\Debug\net8.0\refint\LibraryNetwork.Models.dll
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Models\obj\Debug\net8.0\LibraryNetwork.Models.pdb
+C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Models\obj\Debug\net8.0\ref\LibraryNetwork.Models.dll

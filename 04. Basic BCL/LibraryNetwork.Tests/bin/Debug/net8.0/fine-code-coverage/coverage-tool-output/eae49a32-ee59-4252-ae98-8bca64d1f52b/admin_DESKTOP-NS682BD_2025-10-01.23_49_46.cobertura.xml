@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage line-rate="0.70588235294117652" branch-rate="1" complexity="6" version="1.9" timestamp="1759351786" lines-covered="12" lines-valid="17">
+  <packages>
+    <package line-rate="0.70588235294117652" branch-rate="1" complexity="6" name="LibraryNetwork.Tests">
+      <classes>
+        <class line-rate="0.81818181818181823" branch-rate="1" complexity="1" name="LibraryNetwork.Tests.BookServiceTests" filename="C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Tests\BookServiceTests.cs">
+          <methods>
+            <method line-rate="0.81818181818181823" branch-rate="1" complexity="1" name="GetAll_ReturnAllBookList" signature="()">
+              <lines>
+                <line number="9" hits="1" branch="False" />
+                <line number="10" hits="1" branch="False" />
+                <line number="11" hits="1" branch="False" />
+                <line number="12" hits="1" branch="False" />
+                <line number="13" hits="1" branch="False" />
+                <line number="14" hits="1" branch="False" />
+                <line number="15" hits="1" branch="False" />
+                <line number="16" hits="1" branch="False" />
+                <line number="17" hits="1" branch="False" />
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="1" branch="False" />
+            <line number="10" hits="1" branch="False" />
+            <line number="11" hits="1" branch="False" />
+            <line number="12" hits="1" branch="False" />
+            <line number="13" hits="1" branch="False" />
+            <line number="14" hits="1" branch="False" />
+            <line number="15" hits="1" branch="False" />
+            <line number="16" hits="1" branch="False" />
+            <line number="17" hits="1" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class line-rate="1" branch-rate="1" complexity="1" name="LibraryNetwork.Tests.BookService" filename="C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Tests\BookServiceTests.cs">
+          <methods>
+            <method line-rate="1" branch-rate="1" complexity="1" name="GetAll" signature="()">
+              <lines>
+                <line number="26" hits="1" branch="False" />
+                <line number="27" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="26" hits="1" branch="False" />
+            <line number="27" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class line-rate="0.25" branch-rate="1" complexity="4" name="LibraryNetwork.Tests.Book" filename="C:\Users\admin\Desktop\dotnet-core-courses-2025\04. Basic BCL\LibraryNetwork.Tests\BookServiceTests.cs">
+          <methods>
+            <method line-rate="1" branch-rate="1" complexity="1" name=".ctor" signature="(string)">
+              <lines>
+                <line number="35" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method line-rate="0" branch-rate="1" complexity="1" name="get_Name" signature="()">
+              <lines>
+                <line number="35" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method line-rate="0" branch-rate="1" complexity="1" name="set_Name" signature="(string)">
+              <lines>
+                <line number="35" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method line-rate="0" branch-rate="1" complexity="1" name=".ctor" signature="(LibraryNetwork.Tests.Book)">
+              <lines>
+                <line number="35" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="35" hits="1" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
